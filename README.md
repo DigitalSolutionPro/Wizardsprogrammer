@@ -1,25 +1,31 @@
-- 👋 Hi, I’m @Wizardsprogrammer
-- 👀 I’m interested in create all kind of works like, Aviator prediction bot, Appointment booking bot, all trading robot, cryotp and so many more 
-- 💞️ I’m looking to collaborate on your project 
-- 📫 you can reach me on telegram, necrian001
+# ⚡ DigitalSolution | Systems Architect & Automation Specialist
 
-- ⚡ Fun fact: Am the best in what i do
+I engineer high-performance **AI & Automation** workflows that bridge the gap between complex data and immediate business action. My focus is on **n8n orchestration** and **LLM integration** for enterprise-grade data flows.
 
-*Welcome to my GitHub profile!*
+### 🏗️ Core Specialization: n8n + AI
+* **Tally + Gemini Engine**: Sub-10-second response systems for high-intent lead intake.
+* **LLM Orchestration**: Deep integration of **Google Gemini 1.5 Pro** for real-time lead scoring and analysis.
+* **Smart Bridges**: Automating the entire lifecycle from Webhook trigger to AI-personalized delivery.
 
-I'm a seasoned programmer with expertise in:
+---
 
-- Appointment booking bots for VFSGlobal, BLS, and TLS
-- Cryptocurrency trading bots for meme coins and forex
-- Solana meme coin developer
-- Ntf minting project 
-- Aviator prediction models
+### 🤖 Specialized Bot Development
+Beyond high-level orchestration, I have a deep track record in high-stakes automation:
+* **Appointment Booking**: High-speed bots for **VFSGlobal, BLS, and TLS**.
+* **Trading Systems**: Custom **Solana meme coin** developers, Forex robots, and Aviator prediction models.
+* **Web Engineering**: Advanced scraping, data extraction, and NFT minting projects.
 
-In this repository, you'll find a collection of my projects and contributions, showcasing my skills in:
+---
 
-- Automation and bot development
-- Web scraping and data extraction
-- Cryptocurrency trading and analysis
-- Machine learning and prediction modeling
+### 📊 Featured Project
+**[Tally + Gemini Intelligence Engine](./tally-gemini-engine)**
+An automated bridge that processes Tally submissions, generates personalized AI responses, and syncs data to Google Sheets in under 10 seconds.
 
-Feel free to explore, learn from, and build upon my work. If you have any questions or collaboration opportunities, please don't hesitate to reach out!
+---
+
+### 📬 Let's Build
+I am currently accepting projects for **Workflow Optimization** and **Custom Bot Development**.
+
+**Email:** hello@digitalsolution.work.gd  
+
+> **Fun Fact:** I am the best in what I do.
